@@ -7,9 +7,10 @@ https://kodaktor.ru/08092017
 1. XMLPetrova_Ekaterina - XML-документ с навыками
 
 2. mindmeister_PetrovaKatya - карта с навыками
-3. balsamiq_PetrovaEkaterina - визуальную модель сайта 
+3. balsamiq_PetrovaEkaterina - визуальную модель сайта https://wireframe.cc/EPH4Eh- ссылка на макет сайта диплома, делала только вёрску
+
 https://c9.io/petrovae9 
-https://wireframe.cc/EPH4Eh- ссылка на макет сайта диплома, делала только вёрску
+
 
 Ответ на п.6: какая формальная грамматика определяет HTML5, и каковы взаимоотношения HTML5 и DTD.
 
