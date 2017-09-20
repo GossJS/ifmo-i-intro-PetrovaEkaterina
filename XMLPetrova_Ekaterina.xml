@@ -1,0 +1,8 @@
+<?xml version=”1.0” >	
+<myportfolio>
+<mycompetence>
+<competency in=”HTML” value=”good”  />
+<competency in=”CSS” value=”good”  />
+<competency in=”sharepoint” value=”good”  />
+<competency in=”js” value=”just a little”  />
+</myportfolio>
